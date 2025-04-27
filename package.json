@@ -1,0 +1,22 @@
+{
+  "name": "shlw64",
+  "version": "1.5.8",
+  "description": "Shlw64: A lightweight and secure 64-bit hash designed for security purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "preinstall": "node config.js"
+  },
+  "keywords": [
+    "hash",
+    "security",
+    "crypto",
+    "encryption",
+    "hashing"
+  ],
+  "author": "Jeck Christopher Anog",
+  "license": "MIT",
+  "devDependencies": {
+    "semver": "^7.7.1"
+  }
+}
