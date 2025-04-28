@@ -1,6 +1,6 @@
 {
   "name": "shlw64",
-  "version": "1.5.8",
+  "version": "1.6.2",
   "description": "Shlw64: A lightweight and secure 64-bit hash designed for security purposes.",
   "main": "index.js",
   "scripts": {
