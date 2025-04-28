@@ -31,6 +31,8 @@ npm install shlw64
 
 **1.5.1** — Enhances **Security Features** making it more **complex** and **reliable**.
 
+**1.6.2** — Added **Error Handling** and **Fixed double rotation and salting round**.
+
 > **Coming Soon:** New features, optimizations, and support for broader use cases.
 
 
@@ -46,6 +48,8 @@ npm install shlw64
 3. **1.4.1** — Explained the removal of randomness to make the hash deterministic and lockable.
 
 4. **1.5.1** — Enhances **Security Features**.
+
+5. **1.6.2** — Added **error handling** and fix a **bug**
 
 ## Usage
 
